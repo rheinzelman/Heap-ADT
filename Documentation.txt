@@ -1,0 +1,17 @@
+Terminal Output:
+
+Max element of heap is: 995
+
+Average of all values in vector1: 476.99
+Pushing meanValue into heap...
+
+Popping max value out of heap...
+The max value of the heap is now: 963
+
+Report:
+The heap was created through the use of vectors and their begin() and end() functionality.
+each time a change was made to the heap, push_heap() to reorder the elements.
+I attempted to try and create an alogrithm that would print a heap no matter the size,
+but I quickly discovered that it is a fairly difficult challenge and the project specs do not call
+for that functionality so I did not implement it. 
+
